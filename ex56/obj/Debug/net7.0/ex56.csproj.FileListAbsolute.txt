@@ -1,0 +1,15 @@
+C:\Study\C#\home_work\hw8\ex56\bin\Debug\net7.0\ex56.exe
+C:\Study\C#\home_work\hw8\ex56\bin\Debug\net7.0\ex56.deps.json
+C:\Study\C#\home_work\hw8\ex56\bin\Debug\net7.0\ex56.runtimeconfig.json
+C:\Study\C#\home_work\hw8\ex56\bin\Debug\net7.0\ex56.dll
+C:\Study\C#\home_work\hw8\ex56\bin\Debug\net7.0\ex56.pdb
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.csproj.AssemblyReference.cache
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.AssemblyInfoInputs.cache
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.AssemblyInfo.cs
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.dll
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\refint\ex56.dll
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.pdb
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ex56.genruntimeconfig.cache
+C:\Study\C#\home_work\hw8\ex56\obj\Debug\net7.0\ref\ex56.dll

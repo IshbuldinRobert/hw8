@@ -1,0 +1,15 @@
+C:\Study\C#\home_work\hw8\ex58\bin\Debug\net7.0\ex58.exe
+C:\Study\C#\home_work\hw8\ex58\bin\Debug\net7.0\ex58.deps.json
+C:\Study\C#\home_work\hw8\ex58\bin\Debug\net7.0\ex58.runtimeconfig.json
+C:\Study\C#\home_work\hw8\ex58\bin\Debug\net7.0\ex58.dll
+C:\Study\C#\home_work\hw8\ex58\bin\Debug\net7.0\ex58.pdb
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.csproj.AssemblyReference.cache
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.AssemblyInfoInputs.cache
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.AssemblyInfo.cs
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.dll
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\refint\ex58.dll
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.pdb
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ex58.genruntimeconfig.cache
+C:\Study\C#\home_work\hw8\ex58\obj\Debug\net7.0\ref\ex58.dll

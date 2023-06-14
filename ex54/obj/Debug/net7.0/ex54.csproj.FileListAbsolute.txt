@@ -1,0 +1,15 @@
+C:\Study\C#\home_work\hw8\ex54\bin\Debug\net7.0\ex54.exe
+C:\Study\C#\home_work\hw8\ex54\bin\Debug\net7.0\ex54.deps.json
+C:\Study\C#\home_work\hw8\ex54\bin\Debug\net7.0\ex54.runtimeconfig.json
+C:\Study\C#\home_work\hw8\ex54\bin\Debug\net7.0\ex54.dll
+C:\Study\C#\home_work\hw8\ex54\bin\Debug\net7.0\ex54.pdb
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.csproj.AssemblyReference.cache
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.AssemblyInfoInputs.cache
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.AssemblyInfo.cs
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.dll
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\refint\ex54.dll
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.pdb
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ex54.genruntimeconfig.cache
+C:\Study\C#\home_work\hw8\ex54\obj\Debug\net7.0\ref\ex54.dll
